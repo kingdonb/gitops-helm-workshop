@@ -31,4 +31,4 @@ spec:
           proxy_hide_header l5d-server-id;
       path: /
       hosts:
-      - 35.198.97.122.nip.io
+      - podinfo
